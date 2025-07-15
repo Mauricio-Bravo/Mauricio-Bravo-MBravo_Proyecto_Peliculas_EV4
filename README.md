@@ -36,8 +36,6 @@ Proyecto_Peliculas/
 ## 🗃️ Estructura de la base de datos
 Usar lo siguiente para crear la base de datos:
 ```sql
-CREATE DATABASE IF NOT EXISTS bd_peliculas CHARACTER SET utf8mb4 COLLATE utf8mb4_spanish_ci;
-USE bd_peliculas;
 
 CREATE DATABASE IF NOT EXISTS bd_peliculas CHARACTER SET utf8mb4 COLLATE utf8mb4_spanish_ci;
 USE bd_peliculas;
